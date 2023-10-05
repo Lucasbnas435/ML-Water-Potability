@@ -29,8 +29,9 @@ https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability
 
 ## Contato
 Muito obrigado por acessar esse projeto!
+
 Vamos nos conectar?
 
-GitHub: https://github.com/Lucasbnas435
-LinkedIn:  https://linkedin.com/in/lucasbnas
-E-mail: lucasbnas435@gmail.com
+- GitHub: https://github.com/Lucasbnas435
+- LinkedIn:  https://linkedin.com/in/lucasbnas
+- E-mail: lucasbnas435@gmail.com

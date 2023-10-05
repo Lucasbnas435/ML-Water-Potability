@@ -20,7 +20,7 @@ Colunas:
 - Potability: Indica a potabilidade da água com valores 1 (potável) e 0 (não potável)
 
 ## Desenvolvimento do Projeto
-A aplicação foi desenvolvida em Python 3, utilizando [Jupyter Notebooks](https://jupyter.org/) hospedados e executados na plataforma [Google Colaboratory](https://colab.research.google.com/). O notebook data_visualization.ipynb apresenta um trabalho completo de visualização dos dados, expondo estatísticas e gráficos diversos, aspectos essenciais para a realização da Análise Exploratória inicial.
+A aplicação foi desenvolvida em Python 3.10, utilizando [Jupyter Notebooks](https://jupyter.org/) hospedados e executados na plataforma [Google Colaboratory](https://colab.research.google.com/). O notebook data_visualization.ipynb apresenta um trabalho completo de visualização dos dados, expondo estatísticas e gráficos diversos, aspectos essenciais para a realização da Análise Exploratória inicial.
 
 No notebook model_training.ipynb, é realizado o tratamento dos dados, preenchendo as entradas vazias, além da divisão do dataset entre parte de treinamento e parte de testes. Logo após, é feito o treinamento dos modelos com os algoritmos XGBoost e RandomForest. Por fim, tais modelos são exportados, permitindo seu compartilhamento e uso em outros locais.
 

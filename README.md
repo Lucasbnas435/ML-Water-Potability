@@ -49,7 +49,7 @@ Com o algoritmo RandomForest, por sua vez, obteve-se uma acurácia de **69,51%**
     │   ├── RandomForestModel.joblib
     │   └── XGBoostModel.json
     └── notebooks
-        ├── data-visualization.ipynb
+        ├── data_visualization.ipynb
         └── training_notebook.ipynb
 ```
 
